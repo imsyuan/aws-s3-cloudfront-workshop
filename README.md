@@ -1,1 +1,1 @@
-# aws-s3-cloudfront-workshop
+# AWS 使用 S3 與 CloudFront 輕鬆架站
