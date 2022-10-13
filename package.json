@@ -17,7 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "upload-to-s3": "aws s3 sync build/ s3://steven-teach",
-    "deploy-to-cloudfront": "npm run build && npm run upload-to-s3"
+    "build-and-deploy": "npm run build && npm run upload-to-s3"
   },
   "eslintConfig": {
     "extends": [
